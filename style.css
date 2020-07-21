@@ -1,0 +1,20 @@
+body{font-family: 'Poppins', sans-serif;
+margin: 0px;}
+h1{font-size: 50px;}
+.portion{color: turquoise;}
+.half{width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;}
+.half img{width: 100%;}
+section{height:500px ;padding-bottom: 100px;}
+.billboard{background-image: url(images/top-banner.png);
+background-repeat: no-repeat;}
+.button{text-decoration: none;background-image: linear-gradient(45deg,orange,red);padding: 10px 10px;border-radius: 10px;color: white;font-weight: bolder;}
+#leaf{text-decoration: none;padding: 10px 10px;border-radius: 10px;color: white;font-weight: bolder;background-color: turquoise;}
+.middle{background-image: url(images/dream-bg.png);background-repeat: no-repeat;background-position: right;}
+.movies{box-shadow:10px 10px 40px gray;height: 80%;}
+.last-part{background-image: url(images/exp-bg.png);background-repeat: no-repeat;background-position: left;}
+#prothom{border-left: 10px solid; border-image: linear-gradient(tomato,red);border-image-slice: 1;background-color: white;}
+#ditiyo{border-left: 10px solid;border-image: linear-gradient(blue,cyan);border-image-slice: 1;}
+footer p{text-align: center;font-size: 15px;color: gray;}
